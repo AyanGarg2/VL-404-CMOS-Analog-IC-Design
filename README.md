@@ -7,7 +7,7 @@ Tools Used
 Cadence Virtuoso and SCL 180nm PDK. 
 
 
-Lab-wise Description
+Lab-wise Description:
 Lab-1 Contains:
 DC characteristic analysis of NMOS and PMOS transistors, including ID–VGS and ID–VDS plots, extraction of threshold voltage (Vth), saturation voltage (VDSAT), and study of body effect using circuit simulations.
 
